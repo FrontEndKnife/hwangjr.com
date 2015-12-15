@@ -1,0 +1,25 @@
+{
+  "name": "hwangjr.com",
+  "version": "1.0.0",
+  "description": "The website of hwangjr.com",
+  "main": "hwangjr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwangjr/hwangjr.com.git"
+  },
+  "keywords": [
+    "hwangjr"
+  ],
+  "author": "HwangJR",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hwangjr/hwangjr.com/issues"
+  },
+  "homepage": "https://github.com/hwangjr/hwangjr.com#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
